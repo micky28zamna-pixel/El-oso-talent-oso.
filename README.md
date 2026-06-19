@@ -2,7 +2,7 @@
 
 Proyecto de ingenieria enfocado en el desarrollo de un robot cuadrupedo que emula la morfologia de un oso, integrando control inalambrico y sistemas de audio embebido.
 
-![Texto alternativo](oso.png)
+![Robot Cuadrúpedo](Imagenes/oso.png)
 
 ## Resumen del Proyecto
 TalentOso es una plataforma mecatronica controlada mediante una arquitectura hibrida. Utiliza un microcontrolador **Arduino Uno** para la ejecucion de movimientos en tiempo real y una interfaz desarrollada en **Python** para el mando a distancia. El robot es capaz de caminar, sentarse, realizar movimientos de ataque y reproducir sonidos sincronizados.
