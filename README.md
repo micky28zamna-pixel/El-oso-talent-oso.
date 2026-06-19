@@ -46,8 +46,6 @@ El robot opera mediante una maquina de estados programada en C++. El flujo de tr
 ## Interfaz de Usuario (Python)
 La consola de control fue desarrollada con la libreria **Tkinter**. Permite una operacion intuitiva mediante botones que gestionan la conexion serial con el puerto COM correspondiente.
 
-![Interfaz de Usuario](imgs/Aplicación.png)
-
 ### Instalacion de dependencias
 Para ejecutar la interfaz, es necesario instalar `pyserial`:
 ```bash
