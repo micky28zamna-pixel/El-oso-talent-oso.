@@ -1,9 +1,13 @@
-<img width="396" height="517" alt="oso" src="https://github.com/user-attachments/assets/44734ee7-7449-41f2-9f26-343beb0c20e5" />
+
 # TalentOso: Sistema Robotico Cuadrupedo Bio-inspirado
 
 Proyecto de ingenieria enfocado en el desarrollo de un robot cuadrupedo que emula la morfologia de un oso, integrando control inalambrico y sistemas de audio embebido.
 
-![Robot Cuadrúpedo](oso.png)
+<img width="396" height="517" alt="oso" src="https://github.com/user-attachments/assets/44734ee7-7449-41f2-9f26-343beb0c20e5" />
+
+<img width="696" height="521" alt="oso2" src="https://github.com/user-attachments/assets/6220be78-717c-4556-aeed-416ebac09f0e" />
+
+<img width="686" height="512" alt="oso1" src="https://github.com/user-attachments/assets/4199f282-3058-45c4-a5a0-ddaeb1864445" />
 
 ## Resumen del Proyecto
 TalentOso es una plataforma mecatronica controlada mediante una arquitectura hibrida. Utiliza un microcontrolador **Arduino Uno** para la ejecucion de movimientos en tiempo real y una interfaz desarrollada en **Python** para el mando a distancia. El robot es capaz de caminar, sentarse, realizar movimientos de ataque y reproducir sonidos sincronizados.
